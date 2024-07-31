@@ -1,0 +1,21 @@
+Logging to output_mdt_xl2_eval
+creating model and diffusion...
+sampling...
+created 64 samples
+created 128 samples
+created 192 samples
+created 256 samples
+created 320 samples
+created 384 samples
+created 448 samples
+created 512 samples
+created 576 samples
+created 640 samples
+created 704 samples
+created 768 samples
+created 832 samples
+created 896 samples
+created 960 samples
+created 1024 samples
+created 1088 samples
+created 1152 samples
